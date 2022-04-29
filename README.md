@@ -1,5 +1,5 @@
 # Placements-Website
-Created a Simple and useful Website which help students to crack their interviews
+Created a Simple and useful Website which help students to crack their interviews.
 Working Link 
 
 https://sanjeev-sharma001.github.io/Placements-Website-/
